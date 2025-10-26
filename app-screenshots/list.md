@@ -1,6 +1,6 @@
 See the [readme](../README.md) for more context.
 
-Redacted screenshots from the app as it was live internally at DigitalService for a while - to show the different aspects that were considered at the time.
+Redacted screenshots from the app as it was live for a while - to show the different aspects that were considered at the time.
 
 ![](Templates.png)
 
