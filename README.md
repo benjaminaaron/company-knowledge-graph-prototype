@@ -1,7 +1,16 @@
 # :bulb: KnowThyselves
-A Knowledge Graph prototype by the Workstream "Learning Organization" at DigitalService.
+A company-internal knowledge graph prototype I developed in 2023 in the context of the Workstream "Learning Organization" at DigitalService, together with Ilya Alexander Yacine.
 
-<img title="Katy" src="https://user-images.githubusercontent.com/5141792/225292599-c8ae735f-10f9-42c3-89c2-267a1d60b790.png" width="400">
+It was accompanied by an internal repository containing some scripts I wrote to import triples into the knowledge graph from various sources.
+
+After some months of working on it on the side, the project was abandoned.
+
+See some screenshots [here](app-screenshots/list.md).
+
+<figure style="text-align:center">
+  <img title="Katy" src="https://user-images.githubusercontent.com/5141792/225292599-c8ae735f-10f9-42c3-89c2-267a1d60b790.png" width="400" alt="Katy">
+  <figcaption style="text-align:center"><i>Katy</i></figcaption>
+</figure>
 
 ## Tech stack
 
